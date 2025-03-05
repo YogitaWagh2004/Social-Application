@@ -1,0 +1,21 @@
+
+
+Username & Password  
+*** Django Dashboard ***
+    Username: admin
+    Password: Admin123
+    email: admin123@gmail.com
+
+
+** Users ***
+1. Username: Gita
+   Password: gita123
+
+2. Username: Radha
+   Password: radha123
+
+3. Username: Saisha
+   Password: saisha123
+
+4. Username: Rutu
+   Password: rutu123
